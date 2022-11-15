@@ -1,5 +1,14 @@
 # CS361-Microservice
 
+SQL Lite Browser:
+https://sqlitebrowser.org/dl/
+
+Database Schema:
+
+Table Name: weather
+
+Columns: date (mm-dd-yyyy), water_temp (integer), air_temp (integer), first_peak_time (00:01 to 23:59)
+
 Revision 1:
 
 **Functions:**
