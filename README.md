@@ -6,6 +6,7 @@ Revision 1:
 
 _**getDataBetweenDate(lowDate, highDate)**_
 Syntax:
+
 GETONDATE,01-01-1900,12-31-2999
 Get all entries in the database between the low and high date.
 
