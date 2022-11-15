@@ -37,7 +37,7 @@ Get all entries in the database between the low and high peak time. Times are en
 
 _**insertData(newDate, newWaterTemp, newAirTemp, newTime)**_
 
-_Request Syntax:_ INSERT,20,30,12:00
+_Request Syntax:_ INSERT,12-31-2022,20,30,12:00
 
 Create a new entry into the database. Time is entered into the database in 24-hour military time.
 
