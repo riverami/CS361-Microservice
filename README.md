@@ -44,13 +44,11 @@ Syntax:
 
 INSERT,20,30,12:00
 
+Create a new entry into the database. Time is entered into the database in 24-hour military time.
 
 
 
 --------------------OLDER INFORMATION-------------------------
-
-
-Create a new entry into the database. Time is entered into the database in 24-hour military time.
 
 REQUEST:
 Data can be requested from the microservice by using Python Socket and connecting to the same host and port on your client program.
