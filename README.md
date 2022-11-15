@@ -45,7 +45,11 @@ Syntax:
 INSERT,20,30,12:00
 
 
-***************OLDER INFORMATION**********************
+
+
+--------------------OLDER INFORMATION-------------------------
+
+
 Create a new entry into the database. Time is entered into the database in 24-hour military time.
 
 REQUEST:
