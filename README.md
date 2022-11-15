@@ -13,31 +13,31 @@ https://sqlitebrowser.org/dl/
 
 _**getDataBetweenDate(lowDate, highDate)**_
 
-Request Syntax: GETONDATE,01-01-1900,12-31-2999
+_Request Syntax:_ GETONDATE,01-01-1900,12-31-2999
 
 Get all entries in the database between the low and high date.
 
 _**getDataBetweenWaterTemp(lowTemp, highTemp)**_
 
-Request Syntax: GETONWATERTEMP,0,100
+_Request Syntax:_ GETONWATERTEMP,0,100
 
 Get all entries in the database between the low and high water temperature.
 
 **_getDataBetweenAirTemp(lowTemp, highTemp)_**
 
-Request Syntax: GETONAIRTEMP,0,100
+_Request Syntax:_ GETONAIRTEMP,0,100
 
 Get all entries in the database between the low and high air temperature
 
 _**getDataBetweenPeakTime(lowTime, highTime)**_
 
-Request Syntax: GETONPEAKTIME,00:01,23:59
+_Request Syntax:_ GETONPEAKTIME,00:01,23:59
 
 Get all entries in the database between the low and high peak time. Times are entered into the database in 24-hour military time.
 
 _**insertData(newDate, newWaterTemp, newAirTemp, newTime)**_
 
-Request Syntax: INSERT,20,30,12:00
+_Request Syntax:_ INSERT,20,30,12:00
 
 Create a new entry into the database. Time is entered into the database in 24-hour military time.
 
