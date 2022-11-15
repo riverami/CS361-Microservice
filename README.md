@@ -9,7 +9,7 @@ https://sqlitebrowser.org/dl/
 
 **Columns:** date (mm-dd-yyyy), water_temp (integer), air_temp (integer), first_peak_time (00:01 to 23:59)
 
-**Functions:**
+**Microservice Functions:**
 
 _**getDataBetweenDate(lowDate, highDate)**_
 Syntax:
